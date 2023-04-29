@@ -27,3 +27,5 @@ INSERT INTO tasks(task, info, parent_id, is_done) VALUES
     ("Prepere OS", "Install all aditional soft on it", 0, 1),
     ("Install Office app", "Download it from microsoft.com", 7, 1),
     ("Install Google Chrome", "Make as primary browser", 7, 1);
+
+-- THis is a new comment!
